@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Превед медвед!
+          feature branch
         </p>
         <a
           className="App-link"
